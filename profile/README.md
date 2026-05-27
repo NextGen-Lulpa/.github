@@ -1,4 +1,9 @@
-# 🌿 Soul Up: Revolução Sustentável na palma da sua mão.
+# 🌏🪐 Global Solution
+<p align="center">
+  <img src ="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2026&topic=space-connect" width="150"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
