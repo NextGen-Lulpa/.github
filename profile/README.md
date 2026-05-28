@@ -43,22 +43,24 @@
 
 
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Technologies">
   <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel">
 </p>
 
+
+###
+
+<h1 align="center">👥 Quem somos Nós 👥</h1>
+
+
+## Next Gen 
+Somos um grupo de estudantes de ADS (Analise e desenvolvimento de sistemas) na instituição FIAP, aqui traremos um pouco dos nossos projetos e inovações tecnologicas. Onde iremos mostrar nossa evolução constante como foi visto 
+
 ---
-
-## 🌎 Sobre o Projeto
-
-A **Soul Up** não é apenas um aplicativo, é uma revolução no modo como interagimos com o planeta. Nossa plataforma utiliza tecnologia de ponta para validar e recompensar suas atitudes sustentáveis no mundo físico. 
-
-Através de um sistema integrado de IA, transformamos cada quilometro caminhado, cada quilo de material reciclado e cada Watt de energia solar gerada em pontos que se transformam em **economia real**.
-
----
-
+<!--
 ## ✨ Funcionalidades Principais
 
 | 🌱 Sustentabilidade | 🤖 Tecnologia | 👥 Conexões | 💰 Recompensa |
@@ -206,3 +208,6 @@ A jornada de acesso conta com a tela de login padrão, onde o usuário insere su
 <p align="center">
   Desenvolvido com foco em um futuro mais verde 🌿
 </p>
+
+-->
+s
