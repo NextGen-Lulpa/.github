@@ -1,9 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Next%20gen&fontSize=70&fontColor=E6E6FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=301934"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:9333EA&height=160&section=header"/>
+<div align="center">
+   <img align="center" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1000&color=9333EA&center=true&vCenter=true&random=false&width=435&lines=NEXT+GEN" alt="Typing SVG" />
 </div>
 
-###
 
+<!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -40,24 +41,24 @@
 <p align="center">
   <img src ="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=gs&year=2026&topic=space-connect" width="90"/>
 </p>
+-->
 
 
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Technologies">
-  <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel">
-</p>
-
-
-###
-
-<h1 align="center">👥 Quem somos Nós 👥</h1>
-
-
-## Next Gen 
+<div align="center">
 Somos um grupo de estudantes de ADS (Analise e desenvolvimento de sistemas) na instituição FIAP, aqui traremos um pouco dos nossos projetos e inovações tecnologicas. Onde iremos mostrar nossa evolução constante como foi visto 
+</div>
+
+---
+<h1 align="center">📊 Status da Organização</h1>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=NextGen&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NextGen&theme=midnight-purple&hide_border=true&background=0d1117)
+
+</div>
 
 ---
 <!--
@@ -210,4 +211,176 @@ A jornada de acesso conta com a tela de login padrão, onde o usuário insere su
 </p>
 
 -->
-s
+
+
+
+<div display="inline"& align="center">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-7e22ce?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECNOLOGIA-INOVAÇÃO-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCO-PROJETOS%20INTELIGENTES-a855f7?style=for-the-badge"/>
+</div>
+
+###
+<h1 align="center">Linguagens 💻</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <h1 align="center">Técnologias 🧑🏻‍💻</h1> 
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="23" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-FF8100?logo=intellijidea&logoColor=white&style=for-the-badge" height="23" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyCharm-00C4F4?logo=pycharm&logoColor=white&style=for-the-badge" height="23" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="23" alt="vscode logo"  />
+</div>
+</div>
+
+---
+<!--
+# 🌌 Sobre Nós
+
++ Organização focada em tecnologia e inovação
++ Desenvolvimento de projetos inteligentes
++ Soluções modernas para problemas reais
+
+A **Next Gen** é uma organização criada por estudantes apaixonados por tecnologia, programação e inovação.
+
+Nosso foco é desenvolver projetos modernos, funcionais e impactantes, utilizando desenvolvimento de software, design e inteligência tecnológica para transformar ideias em soluções reais.
+-->
+---
+
+<h1 align="center">🚀 Projetos</h1>
+
+<div align="center">
+
+| Projeto | Descrição |
+|:---:|:---:|
+| 🔥 Sentra | Sistema de combate e monitoramento de incêndios na Amazônia |
+| 🌎 Challenge | Soul up  |
+
+
+</div>
+
+<!--
+# 🔥 Projeto Principal — Sentra
+
+<div align="center">
+
+<img width="700" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0845,100:6441A5&height=120&section=header&text=SENTRA&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+### 🌳 Sistema inteligente de combate ao fogo na Amazônia
+
+O **Sentra** é um projeto voltado ao monitoramento e combate de incêndios florestais utilizando tecnologia, análise de dados e inovação.
+
+### ⚡ Objetivos
+- 🚨 Detectar focos de incêndio
+- 📡 Monitoramento inteligente
+- 🌎 Preservação ambiental
+- 📊 Análise de dados em tempo real
+- 🛰️ Integração tecnológica
+
+---
+-->
+---
+
+<h1 align="center">🎨 Identidade Visual</h1>
+
+<div align="center">
+
+| Cor | Código |
+|---|---|
+| 🟣 Roxo Principal | `#9333EA` |
+| 🟣 Roxo Neon | `#A855F7` |
+| ⚫ Preto | `#050816` |
+| ⚪ Branco | `#FFFFFF` |
+
+</div>
+
+
+<h1 align="center">👥 Equipe</h1>
+
+<div align="center">
+
+  <table>
+    <tr>
+
+<td align="center">
+<a href="https://github.com/anapmagalhaess">
+<img src="https://github.com/anapmagalhaess.png" width="120px;" style="border-radius:50%;" alt="Ana"/>
+</a>
+
+### Ana
+
+<a href="https://github.com/anapmagalhaess">
+<img src="https://img.shields.io/badge/@anapmagalhaess-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+<a href="https://github.com/enzoestanguera">
+<img src="https://github.com/enzoestanguera.png" width="120px;" style="border-radius:50%;" alt="Enzo"/>
+</a>
+
+### Enzo Estanguera
+
+<a href="https://github.com/enzoestanguera">
+<img src="https://img.shields.io/badge/@enzoestanguera-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+<a href="https://github.com/lkoprowskif">
+<img src="https://github.com/lkoprowskif.png" width="120px;" style="border-radius:50%;" alt="Larissa"/>
+</a>
+
+### Larissa Koprowski
+
+<a href="https://github.com/lkoprowskif">
+<img src="https://img.shields.io/badge/@lkoprowskif-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center">
+<a href="https://github.com/luisfelipe-fernandesesteves">
+<img src="https://github.com/luisfelipe-fernandesesteves.png" width="120px;" style="border-radius:50%;" alt="Luis"/>
+</a>
+
+### Luis Fernandes
+
+  <a href="https://github.com/luisfelipe-fernandesesteves">
+      <img src="https://img.shields.io/badge/@luisfelipe--fernandesesteves-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:9333EA&height=160&section=footer"/>
