@@ -365,12 +365,25 @@ O **Sentra** é um projeto voltado ao monitoramento e combate de incêndios flor
 </a>
 
 </td>
+   
+<td align="center">
+<a href="https://github.com/pedrolimeisdev">
+<img src="https://github.com/pedrolimeisdev.png" width="120px;" style="border-radius:50%;" alt="Ana"/>
+</a>
+   
+### Pedro
 
+<a href="https://github.com/pedrolimeisdev">
+<img src="https://img.shields.io/badge/@pedrolimeisdev-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+   
 <td align="center">
 <a href="https://github.com/luisfelipe-fernandesesteves">
 <img src="https://github.com/luisfelipe-fernandesesteves.png" width="120px;" style="border-radius:50%;" alt="Luis"/>
 </a>
-
+   
 ### Luis Fernandes
 
   <a href="https://github.com/luisfelipe-fernandesesteves">
